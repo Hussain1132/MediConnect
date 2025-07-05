@@ -4,7 +4,7 @@ import BioGraphy from "../components/BioGraphy"
 const AboutUs = () => {
   return (
     <>
-      <Hero title={"Learn More About Us | Zeecare Medical Institue"} imagUrl={"/about.png"}/>
+      <Hero title={"Learn More About Us | MediConnect Institue"} imagUrl={"/about.png"}/>
       <BioGraphy imageUrl={"/whoweare.png"}/>
     </>
   )

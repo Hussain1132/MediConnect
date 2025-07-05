@@ -26,8 +26,7 @@ const AppointmentForm = () => {
     "Radiology",
     "Physical Therapy",
     "Dermatology",
-    "ENT",
-    "Bakchodi ka illaz"
+    "ENT"
   ];
 
   const navigateTo = useNavigate();

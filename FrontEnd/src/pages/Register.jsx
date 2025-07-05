@@ -42,7 +42,7 @@ const Register = () => {
       <h2>Sign Up</h2>
       <p>Please Sign Up to Continue</p>
       <p>Exceptional healthcare, advanced technology, diagnostics, treatment, prevention, compassion, precision, innovation, excellence, patient well-being, supportive environment, skilled professionals, 
-      and quality care define ZeeCare Medical Institute.
+      and quality care define MediConnect Institute.
       </p>
       <form onSubmit={RegisterHandler}>
         <div>
