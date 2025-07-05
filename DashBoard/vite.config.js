@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'http://localhost:4000', // Change this to your backend server URL
+        target: 'https://mediconnect-backend1.onrender.com', // Change this to your backend server URL
         changeOrigin: true,
         secure: false,
       },
