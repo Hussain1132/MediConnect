@@ -1,4 +1,4 @@
 # MediConnect
 A online hospital management system with various facilities
-frontend-https://mediconnect-frontend-gfpm.onrender.com
-admin dashborad-https://mediconnect-dashboard.onrender.com
+Drive Video Link - https://drive.google.com/file/d/145A_JDl2EPOtNpmjalvshNBGKfZof5Ql/view?usp=drivesdk 
+
